@@ -3,3 +3,6 @@ Get Index Each BufferSize
 
 # Usage
 See `./example/example.go`
+
+# LICENSE
+MIT
